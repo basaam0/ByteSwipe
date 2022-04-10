@@ -18,7 +18,7 @@ A Tinder style web app for deciding on a restaurant with others!
 open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir="/tmp/chrome_dev_test" --disable-web-security
 ```
 
-2. Visit the website [https://kylehassold.github.io/](https://kylehassold.github.io/) in Chrome.
+2. Visit the website [https://basaam0.github.io/ByteSwipe/](https://basaam0.github.io/ByteSwipe/) in Chrome.
 
 ## Home Page
 ![Home](screenshots/home.png)
